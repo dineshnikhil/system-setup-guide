@@ -28,10 +28,10 @@ git clone git@github.com:dineshnikhil/terminal-profile.git
 
 ### 3. Softwares to install as the .deb files
 
-- VsCode
-- Insomnia
-- Microsoft-edge
-- mongodb-compass
-- mongodb-mongosh
-- mongodb-org-server
-- zoom
+- [VsCode](https://code.visualstudio.com/Download)
+- [Insomnia](https://insomnia.rest/download)
+- [Microsoft-edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e00&ch)
+- [mongodb-compass](https://www.mongodb.com/try/download/compass)
+- [mongodb-mongosh](https://www.mongodb.com/try/download/shell)
+- [mongodb-org-server](https://www.mongodb.com/try/download/community)
+- [zoom](https://www.zoom.us/download)
