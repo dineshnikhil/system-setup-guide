@@ -45,6 +45,9 @@ git clone git@github.com:dineshnikhil/terminal-profile.git
 ### 5. Install the cascadia code font
 
 - install the cascadia code font form [here](https://github.com/microsoft/cascadia-code/releases/tag/v2111.01)
+- install only the required .tt files
+- set the font in vs code
+- set the font in the terminal also
 
 ### 6. Setting up the browser and passwords
 
@@ -53,3 +56,35 @@ git clone git@github.com:dineshnikhil/terminal-profile.git
 - import that in the brave brave browser
 - login into the edge
 - import book marks and all from edge in the brave settings.
+
+### extras
+
+- install gnome-tweaks
+
+```
+sudo apt install gnome-tweaks
+```
+
+- install gnome-shell-extension-manager
+
+```
+sudo apt install gnome-shell-extension-manager
+```
+
+- extensions too install
+
+  - blur my shell
+  - caffeine
+  - user themes
+
+- To enable the minimize feature of dock run the following command.
+
+```
+gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
+```
+
+- To hide the show application option from the dock
+
+```
+gsettings set org.gnome.shell.extensions.dash-to-dock show-show-apps-button false
+```
