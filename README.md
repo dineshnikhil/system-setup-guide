@@ -45,3 +45,11 @@ git clone git@github.com:dineshnikhil/terminal-profile.git
 ### 5. Install the cascadia code font
 
 - install the cascadia code font form [here](https://github.com/microsoft/cascadia-code/releases/tag/v2111.01)
+
+### 6. Setting up the browser and passwords
+
+- install the brave browser
+- from the bitwarden password manager export the data as csv file
+- import that in the brave brave browser
+- login into the edge
+- import book marks and all from edge in the brave settings.
